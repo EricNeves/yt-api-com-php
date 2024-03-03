@@ -9,6 +9,13 @@
 <p align="center">
   Este repositório contém o <b>código-fonte</b> de uma <b>API</b> desenvolvida em <b>PHP</b> puro. A <b>API</b> é demonstrada em um vídeo tutorial disponível no <b>YouTube</b>, criado pelo autor deste repositório.
 </p> 
+<p align="center">
+  O vídeo tutorial associado a este repositório pode ser acessado <a href="https://www.youtube.com/watch?v=5fg5NG2ucsA">aqui</a>. 🚀
+</p>
+
+<p align="center">
+  Se gostou, deixe sua 🌟 no projeto!
+</p>
 
 ![screenshot](.github/screenshot.png)
 
@@ -18,7 +25,7 @@ A API em PHP puro foi desenvolvida como parte de um tutorial prático, projetado
 
 ### Vídeo Tutorial
 
-O vídeo tutorial associado a este repositório pode ser acessado <a href="">aqui</a>.
+O vídeo tutorial associado a este repositório pode ser acessado <a href="https://www.youtube.com/watch?v=5fg5NG2ucsA">aqui</a>.
 
 Principais Recursos:
   * PSR-4
@@ -52,7 +59,7 @@ Mova o projeto para dentro do seu servidor Apache ou NGINX:
 
 ### License 
 
-<img src="https://img.shields.io/github/license/ericneves/myfavoritesquotes?style=flat-square&color=%232563EB">
+<img src="https://img.shields.io/github/license/ericneves/yt-api-com-php?style=flat-square&labelColor=%2335374B">
 
 ### Author 🧑‍💻
 <a href="https://www.instagram.com/ericneves_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://linkedin.com/in/ericnevesrr"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
