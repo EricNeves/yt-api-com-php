@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Este repositório contém o **código-fonte** de uma **API** desenvolvida em **PHP** puro. A **API** é demonstrada em um vídeo tutorial disponível no YouTube, criado pelo autor deste repositório.
+  Este repositório contém o <b>código-fonte</b> de uma <b>API</b> desenvolvida em <b>PHP</b> puro. A <b>API</b> é demonstrada em um vídeo tutorial disponível no <b>YouTube</b>, criado pelo autor deste repositório.
 </p> 
 
 ![screenshot](.github/screenshot.png)
@@ -46,7 +46,7 @@ $ cd yt-api-com-php/ && composer update
 
 ```
 
-Mova o projeto para dentro do servidor Apache ou NGINX:
+Mova o projeto para dentro do seu servidor Apache ou NGINX:
 
 * API: http://localhost/yt-api-com-php/ 
 
