@@ -1,6 +1,6 @@
 <h1 align="center">
   <br />
-  <img src=".github/miniatura.png">
+  <img src=".github/api.png">
   <br />
   API com PHP
   <br />
@@ -17,7 +17,7 @@
   Se gostou, deixe sua 🌟 no projeto!
 </p>
 
-![screenshot](.github/screenshot.png)
+![screenshot](.github/miniatura.png)
 
 ### Descrição
 
