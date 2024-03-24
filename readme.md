@@ -17,7 +17,7 @@
   Se gostou, deixe sua 🌟 no projeto!
 </p>
 
-![screenshot](.github/miniatura.png)
+![screenshot](.github/miniatura-v2.png)
 
 ### Descrição
 
